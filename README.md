@@ -55,3 +55,11 @@ EDA using Python.
 LinkedIn: https://www.linkedin.com/in/tanvi-thool/
 
 Email: thooltanvi116@gmail.com
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanvi-1306&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvi-1306&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Tanvi-1306)
