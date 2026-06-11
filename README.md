@@ -18,7 +18,11 @@
 
 ---
 
-## 🛠 Skills
+## 🛠 Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
+</p>
 
 - SQL
 - Power BI
@@ -28,10 +32,6 @@
 - Pandas
 - NumPy
 - Matplotlib
-- Data Cleaning
-- Data Visualization
-- Statistical Analysis
-
 ---
 
 ## 🚀 Projects
